@@ -20,7 +20,7 @@ Built using:
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/cli-line-counter.git
+   git clone https://github.com/Jayant9917/cli-line-counter.git
    cd cli-line-counter
 
 2. npm install
