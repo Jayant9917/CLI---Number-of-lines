@@ -1,0 +1,5 @@
+hii there!
+how are you 
+my name is jay rana 
+this is my CLI for reading 
+how many line in a file 
